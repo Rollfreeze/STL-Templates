@@ -1,0 +1,144 @@
+﻿  main.cpp
+  menu.cpp
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(39,22): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(51,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(5): warning C4661: std::ifstream numbers<int>::CreateFile(T): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(16): message : см. объявление "numbers<int>::CreateFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(5): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::InputFile(std::ifstream): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(17): message : см. объявление "numbers<int>::InputFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(5): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::modify(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(18): message : см. объявление "numbers<int>::modify"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(5): warning C4661: void numbers<int>::get_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(19): message : см. объявление "numbers<int>::get_vector"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(5): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::change_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(20): message : см. объявление "numbers<int>::change_vector"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(6): warning C4661: std::ifstream numbers<float>::CreateFile(T): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(16): message : см. объявление "numbers<float>::CreateFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(6): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::InputFile(std::ifstream): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(17): message : см. объявление "numbers<float>::InputFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(6): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::modify(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(18): message : см. объявление "numbers<float>::modify"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(6): warning C4661: void numbers<float>::get_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(19): message : см. объявление "numbers<float>::get_vector"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(6): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::change_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(20): message : см. объявление "numbers<float>::change_vector"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(7): warning C4661: std::ifstream numbers<double>::CreateFile(T): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=double
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(16): message : см. объявление "numbers<double>::CreateFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(7): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::InputFile(std::ifstream): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=double
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(17): message : см. объявление "numbers<double>::InputFile"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(7): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::modify(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=double
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(18): message : см. объявление "numbers<double>::modify"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(7): warning C4661: void numbers<double>::get_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=double
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(19): message : см. объявление "numbers<double>::get_vector"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\menu.cpp(7): warning C4661: std::vector<T,std::allocator<T>> numbers<T>::change_vector(std::vector<T,std::allocator<T>>): отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+          with
+          [
+              T=double
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.h(20): message : см. объявление "numbers<double>::change_vector"
+  numbers.cpp
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(11,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(10): message : во время компиляции функции-члена класс шаблон "std::ifstream numbers<int>::CreateFile(T)"
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(4): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "numbers<int>"
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(47): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> numbers<T>::modify(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(67): message : во время компиляции функции-члена класс шаблон "void numbers<int>::get_vector(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(79): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> numbers<T>::change_vector(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=int
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(14,11): warning C4244: инициализация: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(21,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(39,13): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\STL\numbers.cpp(31): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> numbers<T>::InputFile(std::ifstream)"
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  STL.vcxproj -> D:\STUDY\BALSA\OOP_SEM2_PROJECT\STL_TEMPLATE\Debug\STL.exe
